@@ -21,7 +21,7 @@
 <div align="left">
   <h4>Currently Learning:</h4>
   
-  https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
 </div>
 
 ###
