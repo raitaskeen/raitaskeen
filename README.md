@@ -21,7 +21,7 @@
 <div align="left">
   <h4>Currently Learning:</h4>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" height="50"/>
+  https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png
 </div>
 
 ###
