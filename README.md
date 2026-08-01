@@ -33,7 +33,7 @@ Creative professional constantly upgrading my skills by building projects and en
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raitaskeen&label=Profile%20Views&color=1DA1F2&style=flat-square)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=raitaskeen&theme=transparent&hide_border=true)](https://github.com/raitaskeen)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raitaskeen&theme=transparent&hide_border=true&v=1)](https://github.com/raitaskeen)
 
 ---
 
