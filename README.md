@@ -7,7 +7,7 @@ Creative professional constantly upgrading my skills by building projects and en
 
 ### 👨‍💻 About Me
 
-- 💼 Experienced in software development with a professional background at ibex.co in tech dep.
+- 💼 Experienced in software development with a professional background at ibex.co in tech department.
 - 🚀 Building full-stack projects using modern web technologies and robust architectures.
 - 🌐 Check out my personal developer portfolio at **[taskeen.space](https://taskeen.space)**.
 
