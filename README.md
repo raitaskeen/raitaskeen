@@ -7,10 +7,24 @@ Creative professional constantly upgrading my skills by building projects and en
 
 ### 👨‍💻 About Me
 
-- 💼 Experienced in software development with a professional background at ibex.co in tech department.
+- 💼 Experienced in software development with a professional background at ibex.co in the tech department.
 - 🚀 Building full-stack projects using modern web technologies and robust architectures.
 - 🌐 Check out my personal developer portfolio at **[taskeen.space](https://taskeen.space)**.
 
+---
+
+### 🚀 Projects & Open Source Contributions
+
+**Open Source Contributions**
+*   **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp):** Contributor to the core curriculum. Successfully merged pull request #69385 to refine and fix curriculum content.
+*   **[MDN Web Docs](https://github.com/mdn):** Open-source contributor, helping maintain and improve the standard documentation for web technologies.
+*   **[Lingdojo](https://github.com/raitaskeen/lingdojo):** A dynamic full-stack web application tailored for engaging user experiences and interactive content delivery. 
+
+
+**Featured Projects**
+*   **[LegacyExodus](https://github.com/raitaskeen/LegacyExodus):** An enterprise-grade autonomous software modernization platform. Built with a deterministic Knowledge-First architecture utilizing CQRS, Hybrid Event Sourcing, and strict Zero-Trust boundaries to safely migrate legacy codebases. (Bun, TypeScript, SQLite, Rust)
+*   **[Cine-Vault-Web](https://github.com/raitaskeen/cine-vault-web):** The frontend web application for a comprehensive movie database and discovery platform, featuring a modern, responsive user interface.
+*   **[Cine-Vault-API](https://github.com/raitaskeen/cine-vault-api):** The robust backend RESTful API powering Cine-Vault, managing data delivery, user requests, and external movie data integrations.
 ---
 
 ### 🛠️ Tech Stack & Tools
