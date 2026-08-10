@@ -22,7 +22,6 @@ Creative professional constantly upgrading my skills by building projects and en
 
 
 **Featured Projects**
-*   **[LegacyExodus](https://github.com/raitaskeen/LegacyExodus):** An enterprise-grade autonomous software modernization platform. Built with a deterministic Knowledge-First architecture utilizing CQRS, Hybrid Event Sourcing, and strict Zero-Trust boundaries to safely migrate legacy codebases. (Bun, TypeScript, SQLite, Rust)
 *   **[Cine-Vault-Web](https://github.com/raitaskeen/cine-vault-web):** The frontend web application for a comprehensive movie database and discovery platform, featuring a modern, responsive user interface.
 *   **[Cine-Vault-API](https://github.com/raitaskeen/cine-vault-api):** The robust backend RESTful API powering Cine-Vault, managing data delivery, user requests, and external movie data integrations.
 ---
