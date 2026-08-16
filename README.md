@@ -1,17 +1,17 @@
 # Hi 👋, I'm Taskeen Haider
-### Software Engineer | Full-Stack & Systems Development
+### Software Engineer | Full-Stack & Systems Architecture
 
-Software engineer focused on building scalable applications and exploring modern approaches to software engineering, AI, and systems development.
+Software engineer passionate about building high-performance applications, exploring systems programming, and engineering deterministic code analysis and modernization tools.
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Tech Stack & Expertise
 
-- 💻 **Full-Stack:** TypeScript, React, Node.js, Bun, Next.js
-- 🦀 **Systems:** Rust, asynchronous programming, backend architecture
-- 🔍 **Code Analysis:** AST, CFG, DFG, dependency analysis, compiler concepts, IR
-- 🤖 **AI Engineering:** LLMs, AI agents, multi-agent systems, developer tools
-- 🏗️ **Interests:** Software architecture, automation, testing, verification, and scalable systems
+- 💻 **Full-Stack & Backend:** TypeScript, JavaScript, React, Node.js, Express, Next.js, Bun, MongoDB
+- 🦀 **Systems & Performance:** Rust, asynchronous programming, backend architecture, memory safety
+- 🔍 **Static Analysis & Compilers:** AST, CFG, DFG, dependency graphing, Intermediate Representation (IR)
+- 🤖 **AI Engineering:** LLM integrations, AI agents, and developer tooling
+- 🏗️ **Focus Areas:** Software architecture, automated refactoring, formal verification, and scalable systems
 - 🌐 **Portfolio:** [taskeen.space](https://taskeen.space)
 
 ---
