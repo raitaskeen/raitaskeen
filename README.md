@@ -12,7 +12,7 @@ Software engineer passionate about building high-performance applications, explo
 - 🔍 **Static Analysis & Compilers:** AST, CFG, DFG, dependency graphing, Intermediate Representation (IR)
 - 🤖 **AI Engineering:** LLM integrations, AI agents, and developer tooling
 - 🏗️ **Focus Areas:** Software architecture, automated refactoring, formal verification, and scalable systems
-- 🌐 **Portfolio:** [taskeen.space](https://taskeen.space)
+- 🌐 **Portfolio:** [taskeen.space](https://raitaskeen.me)
 
 ---
 
