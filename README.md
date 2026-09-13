@@ -2,13 +2,14 @@
 
 **Software Engineer · Developer Tooling · Static Analysis · Systems Engineering**
 
-- **Specialization:** Software engineer focused on static analysis, compiler-adjacent tooling, and backend infrastructure.
-- **Focus Areas:** Designing deterministic analysis engines, asynchronous backend services, and verified developer tooling.
-- **Engineering Principle:** Deterministic systems for correctness and integrity; machine learning models strictly for bounded reasoning and orchestration.
-- **Current Projects:**
-  - **LegacyExodus** — Static analysis and code modernization engine leveraging AST, CFG, DFG, and Intermediate Representation (IR) graphs.
-  - **AxiomExodus** — Rust-native, local-first data and analytics infrastructure separating verifiable computation from language model reasoning.
-- **Research & Roadmap:** Automation runtimes for autonomous tool execution, strict verification pipelines, and bounded agent workflows.
+- **Background:** Full-stack engineering evolved into backend systems, static analysis, and native infrastructure.
+- **Focus:** Developer tooling, deterministic analysis, systems infrastructure, and bounded AI automation.
+- **Principle:** Deterministic systems for correctness; AI for reasoning, orchestration, and synthesis.
+- **LegacyExodus:** AST/CFG/DFG/IR-based static analysis and software modernization.
+- **AxiomExodus:** Rust-native data and AI infrastructure with deterministic compute and bounded LLM reasoning.
+- **Roadmap:** Automation runtimes for tool execution, verification loops, and controlled autonomy.
+
+*Still occasionally calling something a “quick refactor.” The git diff disagrees.*
 
 ---
 
@@ -16,17 +17,17 @@
 
 ### Open Source Contributions
 
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — Core curriculum contributor ([PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385)).
-- **[MDN Web Docs](https://github.com/mdn)** — Documentation contributor for web platform specifications.
-- **[Lingdojo](https://github.com/raitaskeen/lingdojo)** — Full-stack application for structured, interactive learning delivery.
+- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) — Core curriculum contributor; merged [PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385).
+- [**MDN Web Docs**](https://github.com/mdn) — Contributor to modern web platform documentation.
+- [**Lingdojo**](https://github.com/raitaskeen/lingdojo) — Full-stack application for structured, interactive learning.
 
 ### Featured Projects
 
-- **LegacyExodus** — Deterministic code intelligence platform combining AST/CFG/DFG modeling with automated refactoring workflows.
-- **AxiomExodus** — Local-first, Rust-powered infrastructure for high-throughput data processing and verification.
-- **[Cine Vault](https://github.com/raitaskeen/cine-vault-web)** — Full-stack media catalog and discovery platform.  
-  ↳ [Client Repository](https://github.com/raitaskeen/cine-vault-web) · [Backend API](https://github.com/raitaskeen/cine-vault-api)
-
+- **LegacyExodus** — Deterministic code analysis and modernization using AST, CFG, DFG, and IR.
+- **AxiomExodus** — Rust-native, local-first infrastructure for deterministic data processing and verification.
+- [**Cine Vault**](https://github.com/raitaskeen/cine-vault-web) — Full-stack media discovery platform with separate client and API repositories.  
+  ↳ [Client](https://github.com/raitaskeen/cine-vault-web) · [API](https://github.com/raitaskeen/cine-vault-api)
+  
 ---
 
 ## Technologies & Tools
@@ -53,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raitaskeen&label=Profile%20Views&color=1DA1F2&style=flat-square)
 
