@@ -53,11 +53,13 @@
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raitaskeen&label=Profile%20Views&color=1DA1F2&style=flat-square)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raitaskeen&theme=transparent&hide_border=true&v=1)](https://github.com/raitaskeen)
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raitaskeen&theme=transparent&hide_border=true&timezone=Asia%2FKarachi)](https://github.com/raitaskeen)
 
 ---
 
