@@ -17,9 +17,9 @@
 
 ### Open Source Contributions
 
-- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) — Core curriculum contributor; merged [PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385).
-- [**MDN Web Docs**](https://github.com/mdn) — Contributor to modern web platform documentation.
-- [**Lingdojo**](https://github.com/raitaskeen/lingdojo) — Full-stack application for structured, interactive learning.
+- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) — Open-source coding curriculum;[PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385).
+- [**MDN Web Docs**](https://github.com/mdn) — Web platform documentation;[PR #281](https://github.com/mdn/translated-content-de/pull/281).
+- [**Kana Dojo**](https://github.com/lingdojo/kana-dojo) — Japanese learning platform;[PR #27003](https://github.com/lingdojo/kana-dojo/pull/27003).
 
 ### Featured Projects
 
