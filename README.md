@@ -1,61 +1,72 @@
-# Hi 👋, I'm Taskeen Haider
-### Software Engineer | Full-Stack & Systems Architecture
+# Taskeen Haider
 
-Software engineer passionate about building high-performance applications, exploring systems programming, and engineering deterministic code analysis and modernization tools.
+**Software Engineer · Developer Tooling · Static Analysis · Systems Engineering**
 
----
-
-### 👨‍💻 Tech Stack & Expertise
-
-- 💻 **Full-Stack & Backend:** TypeScript, JavaScript, React, Node.js, Express, Next.js, Bun, MongoDB
-- 🦀 **Systems & Performance:** Rust, asynchronous programming, backend architecture, memory safety
-- 🔍 **Static Analysis & Compilers:** AST, CFG, DFG, dependency graphing, Intermediate Representation (IR)
-- 🤖 **AI Engineering:** LLM integrations, AI agents, and developer tooling
-- 🏗️ **Focus Areas:** Software architecture, automated refactoring, formal verification, and scalable systems
-- 🌐 **Portfolio:** [raitaskeen.me](https://raitaskeen.me)
+- **Specialization:** Software engineer focused on static analysis, compiler-adjacent tooling, and backend infrastructure.
+- **Focus Areas:** Designing deterministic analysis engines, asynchronous backend services, and verified developer tooling.
+- **Engineering Principle:** Deterministic systems for correctness and integrity; machine learning models strictly for bounded reasoning and orchestration.
+- **Current Projects:**
+  - **LegacyExodus** — Static analysis and code modernization engine leveraging AST, CFG, DFG, and Intermediate Representation (IR) graphs.
+  - **AxiomExodus** — Rust-native, local-first data and analytics infrastructure separating verifiable computation from language model reasoning.
+- **Research & Roadmap:** Automation runtimes for autonomous tool execution, strict verification pipelines, and bounded agent workflows.
 
 ---
 
-### 🚀 Projects & Open Source Contributions
+## Projects & Open Source
 
-**Open Source Contributions**
-*   **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp):** Contributor to the core curriculum. Successfully merged pull request #69385 to refine and fix curriculum content.
-*   **[MDN Web Docs](https://github.com/mdn):** Open-source contributor, helping maintain and improve the standard documentation for web technologies.
-*   **[Lingdojo](https://github.com/raitaskeen/lingdojo):** A dynamic full-stack web application tailored for engaging user experiences and interactive content delivery. 
+### Open Source Contributions
 
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — Core curriculum contributor ([PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385)).
+- **[MDN Web Docs](https://github.com/mdn)** — Documentation contributor for web platform specifications.
+- **[Lingdojo](https://github.com/raitaskeen/lingdojo)** — Full-stack application for structured, interactive learning delivery.
 
-**Featured Projects**
-*   **[Cine-Vault-Web](https://github.com/raitaskeen/cine-vault-web):** The frontend web application for a comprehensive movie database and discovery platform, featuring a modern, responsive user interface.
-*   **[Cine-Vault-API](https://github.com/raitaskeen/cine-vault-api):** The robust backend RESTful API powering Cine-Vault, managing data delivery, user requests, and external movie data integrations.
----
+### Featured Projects
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,html,vite,bootstrap" alt="Frontend Stack" />
-
-**Backend + Database**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,appwrite" alt="Backend Stack" />
-
-**Currently Learning**<br>
-<img src="https://skillicons.dev/icons?i=rust" alt="Currently Learning" />
-
-**Other Technologies**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux" alt="Tools and Cloud" />
+- **LegacyExodus** — Deterministic code intelligence platform combining AST/CFG/DFG modeling with automated refactoring workflows.
+- **AxiomExodus** — Local-first, Rust-powered infrastructure for high-throughput data processing and verification.
+- **[Cine Vault](https://github.com/raitaskeen/cine-vault-web)** — Full-stack media catalog and discovery platform.  
+  ↳ [Client Repository](https://github.com/raitaskeen/cine-vault-web) · [Backend API](https://github.com/raitaskeen/cine-vault-api)
 
 ---
 
-### 📊 GitHub Stats
+## Technologies & Tools
+
+**Core Engineering**
+
+[![Core Engineering](https://skillicons.dev/icons?i=ts,js,rust,nodejs,bun,react,nextjs,express&theme=dark)](https://skillicons.dev)
+
+**Data & Infrastructure**
+
+[![Data & Infrastructure](https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,cloudflare&theme=dark)](https://skillicons.dev)
+
+**Developer Tooling**
+
+[![Developer Tooling](https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman&theme=dark)](https://skillicons.dev)
+
+**Systems & High-Performance Libraries**
+
+[![Apache Arrow](https://img.shields.io/badge/Apache%20Arrow-000000?style=flat-square&logo=apachearrow&logoColor=white)](https://arrow.apache.org/)
+[![Polars](https://img.shields.io/badge/Polars-000000?style=flat-square&logo=polars&logoColor=white)](https://pola.rs/)
+[![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white)](https://tokio.rs/)
+[![RocksDB](https://img.shields.io/badge/RocksDB-000000?style=flat-square&logo=rocksdb&logoColor=white)](https://rocksdb.org/)
+[![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+
+---
+
+## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raitaskeen&label=Profile%20Views&color=1DA1F2&style=flat-square)
-<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=raitaskeen&theme=transparent&hide_border=true&v=1)](https://github.com/raitaskeen)
 
 ---
 
-### 📫 Let's Connect
+## Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raitaskeenhaider786@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raitaskeen497)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://raitaskeen.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raitaskeen)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/taskeenhaider/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raitaskeenhaider786@gmail.com)
+[![Cal.com](https://img.shields.io/badge/Cal.com-111111?style=for-the-badge&logo=caldotcom&logoColor=white)](https://cal.com/raitaskeen)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/raitaskeen)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/raitaskeen)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raitaskeen786)
