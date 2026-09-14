@@ -1,6 +1,6 @@
 # Taskeen Haider
 
-**Software Engineer · Developer Tooling · Static Analysis · Systems Engineering**
+**Software Engineer · Full-Stack · Backend · Developer Tooling · AI Automation**
 
 - **Background:** Full-stack engineering evolved into backend systems, static analysis, and native infrastructure.
 - **Focus:** Developer tooling, deterministic analysis, systems infrastructure, and bounded AI automation.
