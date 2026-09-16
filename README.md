@@ -54,16 +54,6 @@
 
 ---
 
-### GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=raitaskeen&label=Profile%20Views&color=1DA1F2&style=flat-square)
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=raitaskeen&theme=transparent&hide_border=true&timezone=Asia%2FKarachi)](https://github.com/raitaskeen)
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://raitaskeen.me)
