@@ -17,15 +17,15 @@
 
 ### Open Source Contributions
 
-- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) — Open-source coding curriculum;[PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385).
-- [**MDN Web Docs**](https://github.com/mdn) — Web platform documentation;[PR #281](https://github.com/mdn/translated-content-de/pull/281).
-- [**Kana Dojo**](https://github.com/lingdojo/kana-dojo) — Japanese learning platform;[PR #27003](https://github.com/lingdojo/kana-dojo/pull/27003).
+- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) - Open-source coding curriculum; [PR #69385](https://github.com/freeCodeCamp/freeCodeCamp/pull/69385).
+- [**MDN Web Docs**](https://github.com/mdn) - Web platform documentation; [PR #281](https://github.com/mdn/translated-content-de/pull/281).
+- [**Kana Dojo**](https://github.com/lingdojo/kana-dojo) - Japanese learning platform; [PR #27003](https://github.com/lingdojo/kana-dojo/pull/27003).
 
 ### Featured Projects
 
-- **LegacyExodus** — Deterministic code analysis and modernization using AST, CFG, DFG, and IR.
-- **AxiomExodus** — Rust-native, local-first infrastructure for deterministic data processing and verification.
-- [**Cine Vault**](https://github.com/raitaskeen/cine-vault-web) — Full-stack media discovery platform with separate client and API repositories.  
+- **LegacyExodus** - Deterministic code analysis and modernization using AST, CFG, DFG, and IR.
+- **AxiomExodus** - Rust-native, local-first infrastructure for deterministic data processing and verification.
+- [**Cine Vault**](https://github.com/raitaskeen/cine-vault-web) - Full-stack media discovery platform with separate client and API repositories.  
   ↳ [Client](https://github.com/raitaskeen/cine-vault-web) · [API](https://github.com/raitaskeen/cine-vault-api)
   
 ---
