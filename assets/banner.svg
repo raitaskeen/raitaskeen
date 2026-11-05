@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Taskeen Haider, Founder of LegacyExodus">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E1E1E"/>
+      <stop offset="1" stop-color="#2A2420"/>
+    </linearGradient>
+    <radialGradient id="warm" cx="0.08" cy="0" r="0.6">
+      <stop offset="0" stop-color="#B24418" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#B24418" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cool" cx="0.95" cy="0.1" r="0.5">
+      <stop offset="0" stop-color="#2D5BA8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2D5BA8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#warm)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#cool)"/>
+
+  <!-- LegacyExodus mark -->
+  <g transform="translate(78 84) scale(3.2)">
+    <path d="M5 5h5.2v16.8H27V27H5z" fill="#F5F5F3"/>
+    <path d="M12.8 19.2 19.6 12.4" stroke="#B24418" stroke-width="2.8"/>
+    <rect x="18" y="5" width="9" height="9" rx="1.2" fill="#B24418"/>
+  </g>
+
+  <text x="250" y="122" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F5F5F3" letter-spacing="-1">Taskeen Haider</text>
+  <text x="250" y="165" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#E2E2DF">Founder, LegacyExodus · Full-stack and systems engineer</text>
+  <text x="250" y="200" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#A3A39F">Lahore, Pakistan · Software modernisation · Developer tooling</text>
+
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#F5F5F3" text-anchor="middle">
+    <rect x="250" y="226" width="186" height="32" rx="16" fill="none" stroke="#B24418" stroke-opacity="0.7"/>
+    <text x="343" y="247">Deterministic analysis</text>
+    <rect x="450" y="226" width="112" height="32" rx="16" fill="none" stroke="#B24418" stroke-opacity="0.7"/>
+    <text x="506" y="247">Migration</text>
+    <rect x="576" y="226" width="102" height="32" rx="16" fill="none" stroke="#2D5BA8" stroke-opacity="0.9"/>
+    <text x="627" y="247">Next.js</text>
+    <rect x="692" y="226" width="184" height="32" rx="16" fill="none" stroke="#2D5BA8" stroke-opacity="0.9"/>
+    <text x="784" y="247">Cloudflare Workers</text>
+  </g>
+</svg>
