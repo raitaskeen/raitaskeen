@@ -17,18 +17,12 @@ I founded LegacyExodus, where we build deterministic analysis for legacy code: i
 
 <br/>
 
-**Coming next**
-
-- **AxiomExodus**, a Rust-native, local-first platform for deterministic data processing and verification. In development.
-- **Quantum-safe discovery**, which extends LegacyExodus to inventory cryptography in legacy systems. Next on the roadmap.
+**Coming next:** AxiomExodus, a Rust-native platform for deterministic data processing and verification, and quantum-safe discovery for LegacyExodus.
 
 <br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-founder%40legacyexodus.tech-B24418?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@legacyexodus.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raitaskeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raitaskeen)
-[![X](https://img.shields.io/badge/X-raitaskeen786-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raitaskeen786)
-[![Portfolio](https://img.shields.io/badge/Portfolio-raitaskeen.me-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://raitaskeen.me)
+[![Email](https://img.shields.io/badge/email-founder%40legacyexodus.tech-B24418?style=flat-square&logo=gmail&logoColor=white)](mailto:founder@legacyexodus.tech) [![LinkedIn](https://img.shields.io/badge/linkedin-raitaskeen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raitaskeen) [![X](https://img.shields.io/badge/x-raitaskeen786-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/raitaskeen786) [![Portfolio](https://img.shields.io/badge/portfolio-raitaskeen.me-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://raitaskeen.me)
 
 </div>
