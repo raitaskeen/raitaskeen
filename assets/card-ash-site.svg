@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" role="img" aria-label="Annemarie-Schimmel-Haus">
   <style>
-    .glow { animation: glow 7s ease-in-out infinite; }
-    .spin { transform-box: fill-box; transform-origin: center; animation: spin 26s linear infinite; }
-    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 4.5s ease-in-out infinite; }
-    .flow { animation: flow 9s linear infinite; }
-    @keyframes glow { 0%, 100% { opacity: 0.45; } 50% { opacity: 0.8; } }
+    .glow { animation: glow 3s ease-in-out infinite; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 9s linear infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-in-out infinite; }
+    .flow { animation: flow 3s linear infinite; }
+    @keyframes glow { 0%, 100% { opacity: 0.2; } 50% { opacity: 1; } }
     @keyframes spin { to { transform: rotate(360deg); } }
     @keyframes pulse { 0%, 100% { opacity: 0.85; } 50% { opacity: 1; } }
     @keyframes flow { to { stroke-dashoffset: -120; } }
-    .rise { animation: rise 12s linear infinite; } @keyframes rise { from { transform: translate(0,0); } to { transform: translate(0,70px); } }
+    .rise { animation: rise 3.2s linear infinite; } @keyframes rise { from { transform: translate(0,0); } to { transform: translate(0,70px); } }
   </style>
   <defs>
     <pattern id="bg-card-ash-site" width="70" height="70" patternUnits="userSpaceOnUse">

@@ -3,8 +3,8 @@
     .name { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 92px; fill: #F5F1EA; }
     .label { font-family: Consolas, "Courier New", monospace; font-size: 16px; letter-spacing: 3px; fill: #9DA7B3; }
     .wordmark { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 22px; font-weight: 600; letter-spacing: -0.4px; fill: #ECECEA; }
-    @keyframes glow { 0%, 100% { opacity: 0.22; } 50% { opacity: 0.32; } }
-    .glow { animation: glow 9s ease-in-out infinite; }
+    @keyframes glow { 0%, 100% { opacity: 0.12; } 50% { opacity: 0.65; } }
+    .glow { animation: glow 3.5s ease-in-out infinite; }
   </style>
   <defs>
     <radialGradient id="warm" cx="0.92" cy="0.05" r="0.55">
