@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" role="img" aria-label="LegacyExodus">
+  <style>
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 26s linear infinite; }
+    .draw { animation: breathe 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .pulse { animation: breathe 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .flow { animation: flow 9s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes breathe { 0%, 100% { opacity: 0.85; } 50% { opacity: 1; } }
+    @keyframes flow { to { stroke-dashoffset: -120; } }
+  </style>
+  <rect x="0.5" y="0.5" width="559" height="319" rx="20" fill="#151514" stroke="#F5F5F3" stroke-opacity="0.09"/>
+  
+  <text x="28" y="66" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2" fill="#B24418">01 · PRIVATE PLATFORM</text>
+  <text x="28" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-style="italic" fill="#F5F5F3">LegacyExodus</text>
+  <text font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9E9E98">
+    <tspan x="28" y="162">Deterministic analysis of legacy code.</tspan>
+    <tspan x="28" y="182">Evidence first, changes second.</tspan>
+  </text>
+  <line x1="28" y1="250" x2="532" y2="250" stroke="#F5F5F3" stroke-opacity="0.09"/>
+  <text x="28" y="282" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#D9D9D4">legacyexodus.tech →</text>
+  <g class="spin" transform="translate(410 150)">
+        <circle r="62" fill="none" stroke="#B24418" stroke-width="1.2" stroke-dasharray="3 7"/>
+        <circle r="38" fill="none" stroke="#B24418" stroke-opacity="0.55" stroke-width="1"/>
+      </g>
+      <g transform="translate(360 96) scale(2.1)"><path d="M5 5h5.2v16.8H27V27H5z" fill="#F5F5F3"/><path d="M12.8 19.2 19.6 12.4" stroke="#B24418" stroke-width="2.8"/><rect x="18" y="5" width="9" height="9" rx="1.2" fill="#B24418"/></g>
+</svg>
