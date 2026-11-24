@@ -1,15 +1,11 @@
-# Hi, I'm Taskeen.
+# Hi, I'm Taskeen Haider
 
-Every once in a while, you inherit a codebase nobody dares to touch.
-I build the software that reads it.
+I'm a BS Software Engineering student at the Virtual University of Pakistan. I'm interested in how far we can trust code and tests that language models write, mainly in post-quantum cryptography and in migrating legacy code.
 
-**[LegacyExodus](https://github.com/raitaskeen/LegacyExodus)** mapped Ghost 6.73, 7,172 files and 415,492 calls, in 183 seconds.
-Then it did it again, byte for byte.
+**Current research:** a pre-registered study on whether tests that models write for their own ML-KEM and ML-DSA code give false assurance. Each implementation is checked against independent, non-LLM oracles: NIST ACVP vectors, malformed-input tests and constant-time checks. It is at the protocol stage, so there are no results yet.
 
-I also build websites: [Haus Real Estate](https://hausrealestate.vercel.app) · [Dana Roadnight](https://danaroadnight.vercel.app) · [Annemarie-Schimmel-Haus](https://annemarie-schimmel.raitaskeen.workers.dev/en) · [Shreet](https://shreet-website.vercel.app) · [Al Khutwa](https://alkhutwa.vercel.app) · [Ahkam Al-Rimal](https://ahkam-alrimal.vercel.app) · [Raavi Volt](https://amirstore.tech) · [all 11](https://raitaskeen.me/#work)
+**Prior work:** [LegacyExodus](https://github.com/raitaskeen/LegacyExodus) is a static-analysis engine for JavaScript and TypeScript, MIT-licensed, with deterministic output and 2,500+ tests. Its CI runs two runtime oracles that check every resolved call and dead-code claim against real test runs. I co-founded a company around it; the repository README has the details.
 
-Open source: [LegacyExodus analysis sample](https://github.com/LegacyExodus/legacyexodus-analysis-sample), 86 passing tests
+[ORCID 0009-0009-2783-4092](https://orcid.org/0009-0009-2783-4092) · bc240436028tha@vu.edu.pk
 
-TypeScript · Next.js · Rust · Lahore
-
-[raitaskeen.me](https://raitaskeen.me) · [Résumé](https://raitaskeen.me/assets/Taskeen_Haider_Resume.pdf) · [Book a call](https://cal.com/raitaskeen) · [LinkedIn](https://www.linkedin.com/in/raitaskeen) · [Email](mailto:raitaskeen.dev@gmail.com)
+<sub>I also build websites: [raitaskeen.me](https://raitaskeen.me)</sub>
